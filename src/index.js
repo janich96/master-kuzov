@@ -28,28 +28,31 @@ const App = () => {
       <section className="section">
         <div className="container">
           <div className="section__header">
-          <h2 class="section__title">О нас</h2>
-          <div class="section__text">
+            <h2 class="section__title">О нас</h2>
+            <div class="section__text">
               <p>Мы - автосервис с опытными мастерами.</p>
               <p>Предоставлям качественный сервис.</p>
-          </div>
+            </div>
           </div>
         </div>
         <div className="about">
           <div className="about__item">
             <div className="about__img">
-              <img src={firstAbout}></img>
+              <img src={firstAbout} alt="Car Volkswagen"></img>
             </div>
+            <div className="about__text">Супер команда</div>
           </div>
           <div className="about__item">
             <div className="about__img">
-              <img src={secondAbout}></img>
+              <img src={secondAbout} alt="Muscle car Chevrolet in car repair service"></img>
             </div>
+            <div className="about__text">Отличные отзывы</div>
           </div>
           <div className="about__item">
             <div className="about__img">
-              <img src={thirdAbout}></img>
+              <img src={thirdAbout} alt="Ford Mustang engine"></img>
             </div>
+            <div className="about__text">Прекрасное портфолио</div>
           </div>
         </div>
       </section>

@@ -129,4 +129,23 @@ body {
   transform: translate3d(-10px, -10px, 0);
 }
 
-.about__text {}
+.about__text {
+  position: absolute;
+  top: 50%;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 700;
+  width: 100%;
+  display: block;
+  text-align: center;
+  z-index: 2;
+  font-size: 18px;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.2s linear;
+  transform: translate3d(0, -50%, 0);
+}
+
+.about__item:hover .about__text {
+  opacity: 1;
+}
