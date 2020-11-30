@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/master-kuzov/static/css/main.5812856a.chunk.css",
-    "main.js": "/master-kuzov/static/js/main.4f7f3d17.chunk.js",
-    "main.js.map": "/master-kuzov/static/js/main.4f7f3d17.chunk.js.map",
+    "main.css": "/master-kuzov/static/css/main.9d9810fb.chunk.css",
+    "main.js": "/master-kuzov/static/js/main.af3902ee.chunk.js",
+    "main.js.map": "/master-kuzov/static/js/main.af3902ee.chunk.js.map",
     "runtime-main.js": "/master-kuzov/static/js/runtime-main.54923199.js",
     "runtime-main.js.map": "/master-kuzov/static/js/runtime-main.54923199.js.map",
     "static/js/2.34127907.chunk.js": "/master-kuzov/static/js/2.34127907.chunk.js",
     "static/js/2.34127907.chunk.js.map": "/master-kuzov/static/js/2.34127907.chunk.js.map",
     "index.html": "/master-kuzov/index.html",
-    "static/css/main.5812856a.chunk.css.map": "/master-kuzov/static/css/main.5812856a.chunk.css.map",
+    "static/css/main.9d9810fb.chunk.css.map": "/master-kuzov/static/css/main.9d9810fb.chunk.css.map",
     "static/js/2.34127907.chunk.js.LICENSE.txt": "/master-kuzov/static/js/2.34127907.chunk.js.LICENSE.txt",
     "static/media/about-1.d43189a5.jpg": "/master-kuzov/static/media/about-1.d43189a5.jpg",
     "static/media/about-2.88ae899b.jpg": "/master-kuzov/static/media/about-2.88ae899b.jpg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.54923199.js",
     "static/js/2.34127907.chunk.js",
-    "static/css/main.5812856a.chunk.css",
-    "static/js/main.4f7f3d17.chunk.js"
+    "static/css/main.9d9810fb.chunk.css",
+    "static/js/main.af3902ee.chunk.js"
   ]
 }
