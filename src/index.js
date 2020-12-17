@@ -4,6 +4,7 @@ import './style.css';
 import firstAbout from "../src/images/about-1.jpg";
 import secondAbout from "../src/images/about-2.jpg";
 import thirdAbout from "../src/images/about-3.jpg";
+import vehicle from "../src/images/vehicle.jpg";
 
 const App = () => {
   return(
@@ -53,6 +54,13 @@ const App = () => {
               <img src={thirdAbout} alt="Ford Mustang engine"></img>
             </div>
             <div className="about__text">Прекрасное портфолио</div>
+          </div>
+        </div>
+      </section>
+      <section className="section--vehicles">
+        <div className="container">
+          <div className="section__header">
+            <h2 className="section__suptitle">Обслуживаем все марки автомобилей</h2>
           </div>
         </div>
       </section>
